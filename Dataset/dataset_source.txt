@@ -1,0 +1,11 @@
+Dataset Name:
+Global Superstore Dataset
+
+Source:
+Kaggle
+
+Purpose:
+Used for Retail Supply Chain & Customer Analytics project.
+
+Note:
+The original dataset is publicly available on Kaggle and was imported into PostgreSQL for cleaning, transformation, and analysis.
