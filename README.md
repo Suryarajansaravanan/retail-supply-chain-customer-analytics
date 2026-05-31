@@ -325,29 +325,6 @@ The dashboard consists of the following analytical modules:
 
 ---
 
-# Dashboard Screenshots
-
-## Executive Overview
-
-(Add Screenshot)
-
-## Product Analytics
-
-(Add Screenshot)
-
-## Customer Analytics
-
-(Add Screenshot)
-
-## Supply Chain Analytics
-
-(Add Screenshot)
-
-## Insights & Recommendations
-
-(Add Screenshot)
-
----
 
 # Skills Demonstrated
 
